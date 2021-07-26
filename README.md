@@ -10,7 +10,6 @@ I am a developer and occasional YouTuber who likes creating awesome stuff and is
 - I've been to many Asian Countries, United Kingdom, New Zealand and Northern Australia.
 - I like pizza
 
-# My Work
 ## Main Projects
 - [Nate Bot](https://yttogether.tk/)
 
