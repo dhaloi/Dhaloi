@@ -11,8 +11,11 @@ I am a developer and occasional YouTuber who likes creating awesome stuff and is
 - I like pizza
 
 ## Main Projects
-- [Nate Bot](https://yttogether.tk/)
+- [YTT](https://yttogether.tk/)
 
+## Github Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=link-discord&show_icons=true&theme=tokyonight)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=link-discord&theme=tokyonight)]()
 
 # Quick Links
 - **[Discord](https://discord.com/invite/mJC5eqfUkG)**
