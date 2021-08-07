@@ -14,8 +14,8 @@ I am a developer and occasional YouTuber who likes creating awesome stuff and is
 - [YTT](https://yttogether.tk/)
 
 ## Github Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=link-discord&show_icons=true&theme=tokyonight)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=link-discord&theme=tokyonight)]()
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhaloi&show_icons=true&theme=tokyonight)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Dhaloi&theme=tokyonight)]()
 
 # Quick Links
 - **[Discord](https://discord.com/invite/mJC5eqfUkG)**
