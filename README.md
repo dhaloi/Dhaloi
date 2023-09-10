@@ -9,10 +9,6 @@ I am a developer and occasional YouTuber who likes creating awesome stuff. Livin
 - I've been to many Asian Countries, United Kingdom, New Zealand and Northern Australia.
 - I like pizza
 
-## Github Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhaloi&show_icons=true&theme=tokyonight)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Dhaloi&theme=tokyonight)]()
-
 # Quick Links
-- **[Discord](https://discord.com/invite/mJC5eqfUkG)**
-- **[YouTube Channel](https://www.youtube.com/channel/UCFsJzVz6CzUIRI9lkBrXOjA)**
+- **[Discord](https://discord.gg/ufkKweQZdQ)**
+- **[YouTube Channel](https://www.youtube.com/@dhaloi)**
