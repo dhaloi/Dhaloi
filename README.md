@@ -4,7 +4,7 @@ I am a developer and occasional YouTuber who likes creating awesome stuff. Livin
 
 # Facts
 - Currently 16 years old. Studying game development and graphic design for education.
-- Trying to learn C#, TypeScript, JavaScript, Pyhton and Rust
+- Trying to learn C#, TypeScript, JavaScript, Python and Rust
 - My interests are programming, gaming and travelling
 - I've been to many Asian Countries, United Kingdom, New Zealand and Northern Australia.
 - I like pizza
