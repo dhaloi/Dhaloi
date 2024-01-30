@@ -1,3 +1,5 @@
+<img src="./header.svg" width="10000">
+
 # Hi, I'm Dhaloi! 👋
 
 I am a developer and occasional YouTuber who likes creating awesome stuff. Living in Turkey, I've been programming for about 2 years full time now and really I love it. Outside of doing that kind of stuff I am either gaming.
