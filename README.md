@@ -1,4 +1,4 @@
-<img src="./header.svg" width="10000">
+<img src="./head.svg" width="10000">
 
 # Hi, I'm Dhaloi! 👋
 
