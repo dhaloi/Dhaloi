@@ -7,7 +7,7 @@ I am a developer who likes creating awesome stuff. Living in Turkey, I've been p
 
 # Facts
 - Currently 17 years old. Studying web + game development.
-- Trying to learn C#, TypeScript, JavaScript, Python and Rust
+- Trying to learn C# and Rust
 - My interests are programming, gaming and travelling
 - I like pizza
 
